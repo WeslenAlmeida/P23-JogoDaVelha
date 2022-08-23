@@ -1,0 +1,16 @@
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.exe
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.deps.json
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.runtimeconfig.json
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.runtimeconfig.dev.json
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.dll
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\bin\Debug\net5.0\P23-JogoDaVelha.pdb
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.AssemblyInfo.cs
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.dll
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\refint\P23-JogoDaVelha.dll
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.pdb
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\P23-JogoDaVelha.genruntimeconfig.cache
+C:\Users\wessm\source\repos\P23-JogoDaVelha\P23-JogoDaVelha\obj\Debug\net5.0\ref\P23-JogoDaVelha.dll
